@@ -1,0 +1,26 @@
+# Task 2 – SPPU Grade Calculator
+
+-> Description
+This is a Java-based ccode that calculates Grade Points, CGPA, and Percentage according to SPPU rules.
+
+The user enters marks for 11 subjects, and the system:
+- Converts marks into Grade Points (Out of 10)
+- Displays subject-wise grade and pointer
+- Calculates CGPA
+- Calculates percentage
+- Checks fail condition (marks < 40)
+
+-> Features
+- Subject-wise grade point calculation
+- Automatic fail detection
+- CGPA calculation
+- Percentage calculation using SPPU formula
+- Input validation (0–100 marks)
+
+-> Technologies Used
+- Java
+- Arrays
+- Loops
+- Conditional statements
+
+
