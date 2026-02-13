@@ -1,0 +1,22 @@
+# Task 1 – Number Game
+
+->Description
+This is a console-based Number Guessing Game developed using Java.
+
+The system generates a random number between 1 and 100.  
+The user has limited attempts to guess the correct number.
+
+-> Features
+- Random number generation
+- Limited attempts
+- Multiple rounds option
+- Score tracking
+- User feedback (Too High / Too Low / Correct)
+
+-> Technologies Used
+- Java
+- Random class
+- Loops
+- Conditional statements
+
+
