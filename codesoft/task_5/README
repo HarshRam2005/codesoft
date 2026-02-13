@@ -1,0 +1,27 @@
+# Task 5 – Student Management System
+
+-> Description
+This is a Student Management System developed using Java.
+
+The system allows users to:
+- Add students
+- Remove students
+- Search students
+- Edit student details
+- Display all students
+- Save and load data from file
+
+->Features
+- Menu-driven interface
+- File handling (data persistence)
+- Input validation
+- CRUD operations
+- Automatic data loading on restart
+
+->Technologies Used
+- Java
+- ArrayList
+- File Handling (BufferedReader, FileWriter)
+- Object-Oriented Programming
+
+
